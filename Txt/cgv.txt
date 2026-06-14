@@ -1,0 +1,21 @@
+# Conditions Générales de Vente (CGV)
+
+### 1. Objet
+Les présentes Conditions Générales de Vente (CGV) régissent de manière exclusive les relations contractuelles entre LAICHE Brahim ("Le Vendeur") et toute personne effectuant un achat sur le site ("Le Client"). L'achat d'un produit (code source, licence de PWA, kit) implique l'acceptation sans réserve des présentes CGV.
+
+### 2. Produits et Livraison Numérique
+Les produits proposés à la vente sont des biais numériques (fichiers sources, architectures monolithiques HTML/CSS/JS, fichiers exécutables). 
+*   Mode de livraison : Les produits sont livrés instantanément ou par email après validation du paiement, sous forme de lien de téléchargement, d'archive ou d'accès à un dépôt de code.
+*   Nature du code : Le code est fourni "tel quel", fonctionnel au moment de la vente. Le Vendeur ne peut être tenu responsable des futures mises à jour des navigateurs ou d'outils tiers qui altéreraient le comportement du code fourni.
+
+### 3. Tarifs et Paiement
+*   Prix : Les prix affichés sur la boutique sont indiqués en Euros (€) et correspondent au tarif net (TVA non applicable, art. 293 B du CGI pour le statut de micro-entreprise, le cas échéant).
+*   Sécurisation : Les paiements sont exécutés de manière sécurisée via la plateforme tierce Stripe. Le Vendeur ne conserve et n'a jamais accès aux coordonnées bancaires du Client.
+
+### 4. Absence de Droit de Rétractation
+Conformément à l'article L221-28 du Code de la consommation français, le droit de rétractation ne peut pas être exercé pour les contrats de fourniture de contenus numériques non fournis sur un support matériel, dont l'exécution a commencé après accord préalable exprès du consommateur. 
+
+S'agissant de fichiers de code source téléchargeables ou copiables instantanément, aucun remboursement ni retour n'est possible une fois le produit livré ou le code transmis.
+
+### 5. Support Technique et Responsabilité
+L'achat d'un template ou d'une PWA clé en main n'inclut pas de maintenance ou de support technique illimité, sauf mention contraire explicitée lors de l'achat ou devis d'accompagnement spécifique. Le Vendeur décline toute responsabilité en cas de mauvaise manipulation du code par le Client, d'erreur d'intégration ou d'incompatibilité avec l'hébergement du Client.
