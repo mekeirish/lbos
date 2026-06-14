@@ -1,0 +1,24 @@
+# Mentions Légales
+
+En vigueur au 14 juin 2026.
+
+### 1. Éditeur du Site
+Le présent site internet est édité et propulsé par :
+*   Nom / Prénom : LAICHE Brahim
+*   Statut professionnel : Développeur Indépendant / Créateur Digital
+*   Siège social : Paris, France
+*   Adresse email : Brahimlaiche14@gmail.com
+
+### 2. Hébergement du Site
+Le site est hébergé par :
+*   Hébergeur : GitHub Inc. (GitHub Pages)
+*   Adresse : 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA
+*   Site web : https://pages.github.com
+
+### 3. Propriété Intellectuelle
+L'ensemble de ce site (structure, design, logos, textes, images, animations) est la propriété exclusive de LAICHE Brahim, à l'exception des marques, logos ou contenus appartenant à d'autres sociétés partenaires ou auteurs tiers (notamment les images d'illustration Unsplash). 
+
+Toute reproduction, représentation, modification ou adaptation totale ou partielle du site, sans autorisation écrite préalable, est strictement interdite.
+
+### 4. Litiges & Droit Applicable
+Le présent site et ses mentions légales sont soumis au droit français. En cas de litige, et à défaut de résolution amiable, les tribunaux de Paris seront seuls compétents.
